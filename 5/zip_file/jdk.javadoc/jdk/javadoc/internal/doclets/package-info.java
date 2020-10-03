@@ -1,27 +1,7 @@
 /*
  * Copyright (c) 2003, 2016, Oracle and/or its affiliates. All rights reserved.
  * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- *
- */
+*/
 
 /**
     <p><b>This is NOT part of any supported API.
